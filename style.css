@@ -89,6 +89,13 @@ a {
     color: grey;
 }
 
+.label {
+    font-size: 40px;
+    
+}
+
+
+
 @media (max-width: 900px) {
     .container1 {
         display: block;
@@ -118,11 +125,5 @@ a {
 
 
 
-
-
-.label {
-    font-size: 40px;
-    
-}
 
 
