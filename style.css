@@ -1,0 +1,113 @@
+.qwigley-regular {
+  font-family: "Qwigley", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+body {
+    background-color: black;
+}
+
+h1 {
+    color: #BC9655;
+    background-image: url(./Images/giftregistry.png);
+    background-repeat: no-repeat;
+    text-align: center;
+    height: 200px;
+    font-size: 80px;
+    padding-top: 60px;
+}
+
+.tiny {
+    font-size: 10px;
+}
+
+.image {
+    height: 500px;
+}
+
+.container1{
+    display: flex;
+    gap: 20px;
+    justify-content: space-around;
+
+}
+
+.first {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 20px;
+
+
+}
+
+.second {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 20px;
+}
+
+.third {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 20px;
+}
+
+.container2{
+    margin-top: 40px;
+    display: flex;
+    gap: 20px;
+    justify-content: space-around;
+
+}
+
+.forth {
+     display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 20px;
+}
+
+.fifth {
+     display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 20px;
+}
+
+.sixth {
+     display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 20px;
+}
+
+a {
+    color: grey;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.label {
+    font-size: 40px;
+    
+}
+
+
