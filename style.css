@@ -89,6 +89,21 @@ a {
     color: grey;
 }
 
+@media (max-width: 900px) {
+    .container1 {
+        display: block;
+    }
+
+    .container2 {
+        display: block;
+    }
+
+    h1 {
+        background-image: linear-gradient(#233833, #32665C);
+    }
+}
+
+
 
 
 
